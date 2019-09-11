@@ -6,6 +6,7 @@ include_directories(include)
 
 set(SOURCES
     ./src/main.cpp
+    ./src/shader_loader.cpp
 )
 
 add_executable(${PROJECT_NAME} ${SOURCES})
