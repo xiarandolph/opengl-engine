@@ -2,7 +2,7 @@
 #include <GLFW/glfw3.h>
 #include <iostream>
 
-#include "shader_loader.h"
+#include "shader_loader.hpp"
 
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 
